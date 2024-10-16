@@ -1,0 +1,189 @@
+* {
+    background-color: #222d37;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.container2 {
+    margin: 50px 0px 0px 40px;
+    /* position: fixed; */
+    font-size: 50px;
+    color: white;
+}
+
+.container {
+    margin-top: 150;
+    margin-left: 130;
+    display: flex;
+    padding: 30px;
+}
+
+
+.one {
+    display: flex;
+    color: white;
+    font-size: 30px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    margin: 70px auto;
+    border: 1px solid black;
+    background-color: rgb(235, 42, 28);
+    /* margin-left: ; */
+    text-decoration: none;
+
+}
+
+.platte1 {
+    color: black;
+    height: 50px;
+    width: 400px;
+    margin: 0px auto;
+    border: 1px solid black;
+    background-color: white;
+    text-decoration: none;
+}
+
+.two {
+    display: flex;
+    color: white;
+    font-size: 30px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    margin: 70px auto;
+    border: 1px solid black;
+    background-color: rgb(30, 116, 46);
+    margin-left: 450px;
+}
+
+.platte2 {
+    color: black;
+    height: 50px;
+    width: 400px;
+    margin: 0px auto;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.three {
+    display: flex;
+    color: white;
+    font-size: 30px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    margin: 70px auto;
+    border: 1px solid black;
+    background-color: rgb(85, 28, 182);
+    margin-left: 900px;
+}
+
+.platte3 {
+    color: black;
+    height: 50px;
+    width: 400px;
+    margin: 0px auto;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.four {
+    display: flex;
+    color: white;
+    font-size: 30px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    margin: 10px auto;
+    border: 1px solid black;
+    background-color: rgb(225, 222, 192);
+    margin-top: 420px;
+    /* margin-left: 100px; */
+    margin-bottom: 20px;
+
+
+}
+
+.platte4 {
+    color: black;
+    height: 50px;
+    width: 400px;
+    margin: 0px auto;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.five {
+    display: flex;
+    color: white;
+    font-size: 30px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    margin: 10px auto;
+    border: 1px solid black;
+    background-color: rgb(28, 105, 182);
+    margin-top: 420px;
+    margin-left: 450px;
+    margin-bottom: 20px;
+
+
+
+}
+
+.platte5 {
+    color: black;
+    height: 50px;
+    width: 400px;
+    margin: 0px auto;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.six {
+    display: flex;
+    color: white;
+    font-size: 30px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    margin: 10px auto;
+    border: 1px solid black;
+    background-color: rgb(177, 28, 182);
+    margin-top: 420px;
+    margin-left: 900px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+
+
+}
+
+.platte6 {
+    /* display: flex;
+    color: white;
+    font-size: 30px;
+    align-items: flex-start;
+    justify-content: flex-end; */
+
+    color: black;
+    height: 50px;
+    width: 400px;
+    margin: 0px auto;
+    border: 1px solid black;
+    background-color: white;
+}

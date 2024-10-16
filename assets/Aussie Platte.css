@@ -1,0 +1,325 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #222d37;
+}
+
+.back {
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    margin: 40px 0px 0px 65px;
+}
+
+.container {
+    flex-wrap: wrap;
+    display: flex;
+    /* height: 881px; */
+    width: 100%;
+    /* border: 1px solid black; */
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.title {
+    position: relative;
+    font-size: 80px;
+    color: black;
+    text-align: center;
+    margin-top: 80px;
+    font-weight: 200;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+
+
+
+.one {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #f6e58d;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.two {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #ffbe76;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+
+}
+
+.three {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #ff7979;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.four {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #badc58;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.five {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #dff9fb;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.six {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #f9ca24;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.seven {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #f0932b;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.eight {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #eb4d4b;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.nine {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #6ab04c;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.ten {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #c7ecee;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.ten1 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #7ed6df;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+
+}
+
+.ten2 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #e056fd;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+
+}
+
+.ten3 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #686de0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.ten4 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #30336b;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+
+}
+
+.ten5 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #95afc0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.ten6 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #22a6b3;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.ten7 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #be2edd;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.ten8 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 3px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #4834d4;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.ten9 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 0px 0px 0px; */
+    /* /* border: 1px solid white; */
+    background-color: #130f40;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.ten10 {
+    height: 200px;
+    width: 300px;
+    /* margin: 0px 0px 0px 0px; */
+    /* /* border: 1px solid white; */
+    /* margin: 10px auto; */
+    /* border: 1px solid white; */
+    background-color: #535c68;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
